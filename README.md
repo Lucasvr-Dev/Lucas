@@ -6,9 +6,11 @@ Eu sou <strong>Lucas</strong>, <strong>Estudante de Analise e Desenvolvimento de
 - 💬 Pergunte-me sobre: <strong>Jogos, filmes, músicas, séries e animes</strong>
 - 📣 Nós podemos falar em: <strong>Português e Inglês(intermediário)</strong>
 
+<br>
+
 <div align="center">
 
-  <a href="#" alt="Gmail">
+  <a href="mailto:lucasviniciusramosrodrigues50@gmail.com" alt="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL"/></a>
 
   <a href="https://www.linkedin.com/in/lucas-vinicius-3774961b8/" alt="Linkedin">
