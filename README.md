@@ -1,4 +1,4 @@
-<h2> Oi gente, eu sou o <strong>Lucas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Oi, eu sou o <strong>Lucas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
 <h3> :man_office_worker: 💻 Estudante de Analise e Desenvolvimento de Sistemas (Futuro desenvolvedor) </h3>
 
