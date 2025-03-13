@@ -4,14 +4,14 @@
 
 - :books: &nbsp; <strong>Interesses: Programação, Jogos e Músicas</strong>
 - 🎓 &nbsp; <strong>FACULDADE SENAC-PE</strong>
-- :computer: &nbsp; <strong>Estudando: HTML/CSS/</strong>
+- :computer: &nbsp; <strong>Estudando: Python/SQL</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
-- 💻 &nbsp; <strong>Suas linguagens de programação</strong>
-- 🌐 &nbsp; <strong>Suas áreas de atuação (Android, Desktop, Web)</strong>
-- 🛢 &nbsp; <strong>Seus bancos de dados</strong>
-- 🔧 &nbsp; <strong>Suas IDES</strong>
+- 💻 &nbsp; <strong>Python</strong>
+- 🌐 &nbsp; <strong>Back-end</strong>
+- 🛢 &nbsp; <strong>SQL</strong>
+
 
 
 <div align="center">
@@ -24,11 +24,8 @@
   <a href="#" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
   
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
   <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/sladodjo?igsh=Zmc1YjA0OGM4ODN1&utm_source=qr"/></a>
 <div>
  
 
