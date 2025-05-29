@@ -4,12 +4,15 @@
 
 - :books: &nbsp; <strong>Interesses: Programação, Jogos e Músicas</strong>
 - 🎓 &nbsp; <strong>FACULDADE SENAC-PE</strong>
-- :computer: &nbsp; <strong>Estudando: Python/SQL</strong>
+- :computer: &nbsp; <strong>Estudando: Javascript/Python/SQL</strong>
 
 <h3>:atom: Competências Técnicas: </h3>
 
 - 💻 &nbsp; <strong>Python</strong>
-- 🌐 &nbsp; <strong>Back-end</strong>
+- 💻 &nbsp; <strong>HTML</strong>
+- 💻 &nbsp; <strong>CSS</strong>
+- 💻 &nbsp; <strong>Javascript</strong>
+- 🌐 &nbsp; <strong>Front-end</strong>
 - 🛢 &nbsp; <strong>SQL</strong>
 
 
