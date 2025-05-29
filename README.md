@@ -1,4 +1,4 @@
-<h2> Oi, eu sou o <strong>Lucas</strong>. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Oi, eu sou o <strong>Lucas</strong> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px"></h2>
 
 <h3> :man_office_worker: 💻 Estudante de Analise e Desenvolvimento de Sistemas (Futuro desenvolvedor) </h3>
 
@@ -9,8 +9,6 @@
 <h3>:atom: Competências Técnicas: </h3>
 
 - 💻 &nbsp; <strong>Python</strong>
-- 💻 &nbsp; <strong>HTML</strong>
-- 💻 &nbsp; <strong>CSS</strong>
 - 💻 &nbsp; <strong>Javascript</strong>
 - 🌐 &nbsp; <strong>Front-end</strong>
 - 🛢 &nbsp; <strong>SQL</strong>
@@ -34,7 +32,7 @@
 
 </br>
 <div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Lucasvr-Dev_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Lucasvr-Dev&show_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
 
