@@ -34,7 +34,7 @@
 
 </br>
 <div align="center">
-<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=LucasVRRF_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Duduxs"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Lucasvr-Dev_icons=true&include_all_commits=true&theme=radical" alt="Anurag's github stats"/>
 </a>
 </div>
 
