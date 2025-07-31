@@ -13,14 +13,24 @@
 <p><strong>🏢 Studying in Faculdade Senac PE <br>
            🧠 Always trying to improve myself <br>
            📚 Learning more about Java and Python
+
 </p>
-<br>
+
 
 <h2> About me</h2>
 
-<h3> 
-    I've been passionate about technology since I was young. Having developed a strong desire to learn and work in programming, I began my studies alone. However, there came a time when I realized the need to establish direct contact with others in the field and acquire deeper knowledge, as well as soft skills. Therefore, in February 2025, I began studying Systems Analysis and Development at Senac PE College, where I learned a lot about clean code, Git, and GitHub. I was able to begin my studies in Python and HTML, as well as learning how to use tools like Figma, Canva, and others. Now, I'm looking to specialize and study Java, a language that deeply interests me.
-</h3>
+
+  <table>
+  <tr>
+    <td>
+      <img src="./eu.png" alt="Lucas no computador, ao lado do doguinho" width="10000px" >
+    </td>
+    <td align="center">
+      I've been passionate about technology since I was young. Having developed a strong desire to learn and work in programming, I began my studies alone. However, there came a time when I realized the need to establish direct contact with others in the field and acquire deeper knowledge, as well as soft skills. Therefore, in February 2025, I began studying Systems Analysis and Development at Senac PE College, where I learned a lot about clean code, Git, and GitHub. I was able to begin my studies in Python and HTML, as well as learning how to use tools like Figma, Canva, and others. Now, I'm looking to specialize and study Java, a language that deeply interests me.
+    </td>
+  </tr>
+</table>
+   
 
 <br>
 
